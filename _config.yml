@@ -1,0 +1,28 @@
+name: Beech Mountain Cabin
+favicon: null
+layout_spectrum: 0.12448910321108997
+typography_spectrum: 0.7705293106846511
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8027817101683468
+  lightness: 0.4165480760857463
+  saturation: 0.5573692722246051
+  rhythmicContrast: 0.7150006145238876
+purpose: []
