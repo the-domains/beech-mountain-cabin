@@ -1,0 +1,1 @@
+# beech-mountain-cabin
